@@ -1,11 +1,12 @@
-const Header = () => {
+const Project = () => {
     return (
-        <header>
+        <div>
             <div>
-                <h1>Niklas Solomon</h1>
+                <h3>Project Title</h3>
+                <a href="#">Link to Project</a>
             </div>
-        </header>
+        </div>
     )
 };
 
-export default Header;
+export default Project;
