@@ -1,6 +1,6 @@
 import Project from '../components/Project';
 
-const Projects = () => {
+const Portfolio = () => {
     return (
         <div>
             <h2>My Projects</h2>
@@ -9,4 +9,4 @@ const Projects = () => {
     )
 };
 
-export default Projects;
+export default Portfolio;

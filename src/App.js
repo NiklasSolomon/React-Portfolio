@@ -1,21 +1,21 @@
 import React, { useState } from 'react';
 import About from './pages/About';
+import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
-import Projects from './pages/Projects';
 import Resume from './pages/Resume';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
-import Body from './components/Body'
 import Footer from './components/Footer';
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   const [ currentPage, setCurrentPage ] = useState('about');
 
   const renderPage = () => {
     if (currentPage === 'about') return <About/>;
+    if (currentPage === 'portfolio') return <Portfolio/>;
     if (currentPage === 'contact') return <Contact/>;
-    if (currentPage === 'projects') return <Projects/>;
     if (currentPage === 'resume') return <Resume/>;
   }
 
@@ -29,6 +29,6 @@ function App() {
         <Footer/>
     </>
   )    
-}
+};
 
 export default App;
