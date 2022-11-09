@@ -1,7 +1,8 @@
+import styles from './Body.module.css';
+
 const Body = ({ renderPage }) => {
     return (
-        <main>
-            <h3>Main Page</h3>
+        <main className={styles.Body}>
             { renderPage() }
         </main>
     )
