@@ -2,7 +2,7 @@ const Body = ({ renderPage }) => {
     return (
         <main>
             <h3>Main Page</h3>
-            { renderPage }
+            { renderPage() }
         </main>
     )
 };

@@ -5,9 +5,9 @@ import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Header from './components/Header';
 import Navigation from './components/Navigation';
+import Body from './components/Body';
 import Footer from './components/Footer';
 import './App.css';
-import Body from './components/Body';
 
 function App() {
   const [ currentPage, setCurrentPage ] = useState('about');
