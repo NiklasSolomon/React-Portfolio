@@ -1,11 +1,16 @@
 .Header {
-    align-items: center;
     background-color: #09445d;
-    ;
+    top: 0;
+    /* position:fixed; */
+    display: flex;
+    height: 100px;
+    width: 100%;
+    z-index: 1;
+
 }
 
 .Title {
     color: #ebebeb;
-    text-align: center;
     width: 100%;
+    top: 0;
 }
