@@ -1,6 +1,8 @@
+import styles from './Footer.module.css';
+
 const Footer = () => {
     return (
-        <footer>
+        <footer className={styles.Footer}>
             <a href="#">Github</a>
             <a href="#">LinkedIn</a>
             <a href="#">Third Platform</a>
