@@ -1,15 +1,16 @@
 .Footer {
-    background-color: #09445d;
+    background-color: #135ea4;
     bottom: 0;
-    position: fixed;
     width: 100%;
     z-index: 1;
     align-items: flex-end;
+    display: flex;
+    justify-content: center;
 }
 
-.Links a {
+a {
     text-align: center;
-    display: flex;
+    display: inline;
     align-items: center;
     padding: 10px;
     text-decoration: none;

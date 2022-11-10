@@ -5,6 +5,8 @@
     width: 100vw;
     display: flex;
     justify-content: flex-end;
+    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .Button, .Selected {
@@ -14,8 +16,11 @@
     color: #ebebeb;
     padding: 15px 32px;
     text-align: center;
-    display: flex;
     font-size: 23px;
     cursor: pointer;
     margin: 3px;
+}
+
+@media screen and (min-width: 600px) {
+    .Navigation{ flex-direction: row};
 }
