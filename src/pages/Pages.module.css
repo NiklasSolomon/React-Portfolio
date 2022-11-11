@@ -7,3 +7,9 @@
     margin: 0;
     padding: 10px;
 }
+
+.Container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}

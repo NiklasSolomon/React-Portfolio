@@ -1,0 +1,44 @@
+[
+    {
+        "title": "JOIN Our Table",
+        "img": "/images/joinourtable.PNG",
+        "appLink": "https://join-our-table.herokuapp.com/",
+        "repoLink": "https://github.com/danielstewart914/JOIN-our-table",
+        "key": 1
+    },
+    {
+        "title": "Paperboy",
+        "img": "/images/Mailman.webp",
+        "appLink": "https://paullsshin.github.io/Paper-Boy/",
+        "repoLink": "https://github.com/paullsshin/Paper-Boy",
+        "key": 2
+    },
+    {
+        "title": "Note Taker",
+        "img": "/images/notetaker.png",
+        "appLink": "https://niklas-solomon-note-taker.herokuapp.com/",
+        "repoLink": "https://github.com/NiklasSolomon/Note-Taker",
+        "key": 3
+    },
+    {
+        "title": "Work Day Scheduler",
+        "img": "/images/workdayscheduler.PNG",
+        "appLink": "https://niklassolomon.github.io/Work-Day-Scheduler/",
+        "repoLink": "https://github.com/NiklasSolomon/Work-Day-Scheduler",
+        "key": 4
+    },
+    {
+        "title": "Text Editor",
+        "img": "/images/texteditor.PNG",
+        "appLink": "https://niklas-solomon-text-editor.herokuapp.com/",
+        "repoLink": "https://github.com/NiklasSolomon/Text-Editor",
+        "key": 5
+    },
+    {
+        "title": "First Portfolio",
+        "img": "/images/htmlportfolio.PNG",
+        "appLink": "https://niklassolomon.github.io/Niklas-Solomon-Portfolio/",
+        "repoLink": "https://github.com/NiklasSolomon/Niklas-Solomon-Portfolio",
+        "key": 6
+    }
+]

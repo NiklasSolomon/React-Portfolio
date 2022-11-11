@@ -1,0 +1,33 @@
+.ProjectCard {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-size: 150%;
+    background-position: center;
+    aspect-ratio: 3/2;
+    width: 100%;
+}
+
+.Column {
+    padding: 1.5rem;
+    width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+    .Column {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .Column {
+        width: calc( 100% / 3 );
+    }
+}
+
+@media screen and (min-width: 1650px) {
+    .Column {
+        width: 25%;
+    }
+}
