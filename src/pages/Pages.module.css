@@ -1,6 +1,7 @@
 .Page h2 {
     margin: 0;
     padding: 10px;
+
 }
 
 .Content h2 {
@@ -12,4 +13,10 @@
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+}
+
+.Image {
+    max-width: 300px;
+    max-height: 300px;
+
 }
