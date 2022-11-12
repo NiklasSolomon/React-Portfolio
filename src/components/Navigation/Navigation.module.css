@@ -21,6 +21,11 @@
     margin: 3px;
 }
 
+.Selected {
+    border-color: #3c1a02;
+}
+
+
 @media screen and (min-width: 600px) {
     .Navigation{ flex-direction: row};
 }
