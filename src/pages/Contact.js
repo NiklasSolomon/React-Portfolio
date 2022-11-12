@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <div className={ styles.Page }>
             <h2>Contact Me</h2>
-            <div><ContactForm/></div>
+            <div className={ styles.Content }><ContactForm/></div>
         </div>
     )
 };

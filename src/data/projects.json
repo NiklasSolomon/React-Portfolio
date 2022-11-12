@@ -4,6 +4,7 @@
         "img": "/images/joinourtable.PNG",
         "appLink": "https://join-our-table.herokuapp.com/",
         "repoLink": "https://github.com/danielstewart914/JOIN-our-table",
+        "alt": "Screenshot of Join our Table application",
         "key": 1
     },
     {
@@ -11,6 +12,7 @@
         "img": "/images/Mailman.webp",
         "appLink": "https://paullsshin.github.io/Paper-Boy/",
         "repoLink": "https://github.com/paullsshin/Paper-Boy",
+        "alt": "Screenshot of Paperboy application",
         "key": 2
     },
     {
@@ -18,6 +20,7 @@
         "img": "/images/notetaker.png",
         "appLink": "https://niklas-solomon-note-taker.herokuapp.com/",
         "repoLink": "https://github.com/NiklasSolomon/Note-Taker",
+        "alt": "Screenshot of Note Taker application",
         "key": 3
     },
     {
@@ -25,6 +28,7 @@
         "img": "/images/workdayscheduler.PNG",
         "appLink": "https://niklassolomon.github.io/Work-Day-Scheduler/",
         "repoLink": "https://github.com/NiklasSolomon/Work-Day-Scheduler",
+        "alt": "Screenshot of Work Day Scheduler application",
         "key": 4
     },
     {
@@ -32,6 +36,7 @@
         "img": "/images/texteditor.PNG",
         "appLink": "https://niklas-solomon-text-editor.herokuapp.com/",
         "repoLink": "https://github.com/NiklasSolomon/Text-Editor",
+        "alt": "Screenshot of Text Editor application",
         "key": 5
     },
     {
@@ -39,6 +44,7 @@
         "img": "/images/htmlportfolio.PNG",
         "appLink": "https://niklassolomon.github.io/Niklas-Solomon-Portfolio/",
         "repoLink": "https://github.com/NiklasSolomon/Niklas-Solomon-Portfolio",
+        "alt": "Screenshot of First Portfolio",
         "key": 6
     }
 ]

@@ -1,12 +1,8 @@
 .Header {
     background-color: #09445d;
     top: 0;
-    /* position:fixed; */
+    position: relative;
     display: flex;
-    height: 100px;
-    width: 100%;
-    z-index: 1;
-
 }
 
 .Title {

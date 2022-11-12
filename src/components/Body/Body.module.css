@@ -1,11 +1,13 @@
 .Body {
-    background-color: hsl(198, 82%, 20%);
+    margin: 0;
+    background-color: #09445d;
     color: #ebebeb;
     text-align: center;
     padding-top: 0;
     display: flex;
-    margin: 0;  
-    height: 100vh;
     flex-direction: column;
+    min-height: 741px;
+    height: 100%;
+    width: 100%;
 }
 

@@ -7,7 +7,7 @@ const Portfolio = () => {
     return (
         <div className={ styles.Page }>
             <h2>Portfolio</h2>
-            <div className={styles.Container}>{ renderProjects() }</div>
+            <div className={ styles.Projects}>{ renderProjects() }</div>
         </div>
     )
 };

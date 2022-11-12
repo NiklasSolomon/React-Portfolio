@@ -3,9 +3,6 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    background-size: 150%;
-    background-position: center;
-    aspect-ratio: 3/2;
     width: 100%;
     border: 3px solid #ffd000;
     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
@@ -18,6 +15,11 @@
 .Column {
     padding: 1.5rem;
     width: 100%;
+}
+
+.Image {
+    height: 200px;
+    width: auto;
 }
 
 @media screen and (min-width: 992px) {
