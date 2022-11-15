@@ -16,11 +16,11 @@
         "key": 2
     },
     {
-        "title": "Note Taker",
-        "img": "/images/notetaker.png",
-        "appLink": "https://niklas-solomon-note-taker.herokuapp.com/",
-        "repoLink": "https://github.com/NiklasSolomon/Note-Taker",
-        "alt": "Screenshot of Note Taker application",
+        "title": "BeanBuddy",
+        "img": "/images/beanbuddy.PNG",
+        "appLink": "https://bean-buddy.herokuapp.com/",
+        "repoLink": "https://github.com/danielstewart914/beanBuddy",
+        "alt": "Screenshot of BeanBuddy application",
         "key": 3
     },
     {
