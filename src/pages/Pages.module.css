@@ -33,3 +33,12 @@
     border: 3px solid #ffd000;
     background-color: #135ea4;
 }
+
+.Link {
+    color: navy;
+
+}
+
+.Link:hover {
+    color: white
+}

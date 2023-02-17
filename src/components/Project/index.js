@@ -7,8 +7,8 @@ const Project = ({ title, img, appLink, repoLink, alt }) => {
                 <h3 className={styles.Title}>{title}</h3>
                 <img className={ styles.Image } src={ process.env.PUBLIC_URL + img } alt={alt}/>
                 <div className={styles.Links}>
-                    <a href={appLink}>Link to Project</a>
-                    <a href={repoLink}>Link to Github Repository</a>
+                    <a href={appLink} target="_blank" rel="noopener noreferrer">Link to Project</a>
+                    <a href={repoLink} target="_blank" rel="noopener noreferrer">Link to Github Repository</a>
                 </div>
             </div>
         </div>
